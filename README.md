@@ -1,7 +1,6 @@
 # relvise
-An example of commercial company landing page
 
-An example of commercial company landing page. Look here
-Figma template is here.
-Responsive.
-W3C validator completed, no errors or warnings.
+- An example of commercial company landing page. [Look here](https://flatwhit3.github.io/relvise/)
+- Figma template is [here](https://www.figma.com/community/file/912411543875357758/Relvise---Figma-Consulting-Web-Page-Template)
+- Responsive.
+- W3C validator completed, no errors or warnings.
